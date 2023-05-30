@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
     <br>
-    Due to constant Discord terminations I will not be making a new support server. For urgent contact: <a href="https://t.me/addi00000">Telegram</a>
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
@@ -77,6 +76,6 @@
 
 ## License
 
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+licensed under the <a href="https://mit-license.org/">MIT License</a>.
 
 <img src="img/footer.png">
